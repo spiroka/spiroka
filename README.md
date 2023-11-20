@@ -1,5 +1,7 @@
 # 👋 Hi! I'm Gergő.
 
-I'm a web developer with a passion for frontend technologies.
+I'm a software engineer with a passion for frontend web technologies.
 
-During my day job I mainly work with React and its ecosystem, using TypeScript. For my side and hobby projects I try to stay as vanilla 🍦 as possible.
+I've been building applications from the ground up with various technologies for 8+ years. 
+
+I love tinkering, learning and sharing what I've learnt with others.
